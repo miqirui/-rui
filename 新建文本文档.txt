@@ -1,0 +1,2 @@
+mysql> show create table users\G
+\s
